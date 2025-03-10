@@ -130,6 +130,7 @@ cursor.execute(query, (user_input,))
 
 ## 🎯 **Final Thoughts**  
 This guide provides **real-world AppSec interview Q&A** that can help you **evaluate and prepare for security roles**.  
-For more questions [click here]()
+For more questions [click here](https://github.com/Cyber-Security-Warriors/Appplication-Security-Interview-Prep/blob/main/InterviewQuestions.md)
+
 Would you like to contribute? Fork this repo and submit a PR! 🚀  
 
