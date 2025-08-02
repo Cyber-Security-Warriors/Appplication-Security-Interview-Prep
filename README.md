@@ -3,6 +3,7 @@
 **Last Updated:** 2025  
 
 ---
+DevSecOps questions [click here](https://github.com/Cyber-Security-Warriors/Appplication-Security-Interview-Prep/blob/main/DevSecOps.md)
 
 # 🚀 Senior Application Security Engineer Interview Q&A  
 
